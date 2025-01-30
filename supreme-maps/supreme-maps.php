@@ -7,7 +7,7 @@
  * Author: Divi Supreme
  * Author URI: http://www.divisupreme.com/
  * Requires at least: 5.6
- * Tested up to: 6.6.1
+ * Tested up to: 6.7
  *
  * Text Domain: supreme-maps
  * Domain Path: /lang/

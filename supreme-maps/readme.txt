@@ -2,7 +2,7 @@
 Contributors: divisupreme, kenng87
 Tags: divi, divi map, divi leaflet, divi builder, divi theme
 Requires at least: 5.6
-Tested up to: 6.6.1
+Tested up to: 6.7
 Requires PHP: 7.0
 Stable tag: 1.1.1
 License: GPLv2 or later
